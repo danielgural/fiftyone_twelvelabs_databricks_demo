@@ -1,0 +1,5 @@
+fiftyone
+databricks-vectorsearch
+python-dotenv
+umap-learn
+twelvelabs
